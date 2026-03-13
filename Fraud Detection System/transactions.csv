@@ -1,0 +1,51 @@
+TransactionAmount,TransactionTime,MerchantCategory,Location,AccountAgeMonths,TransactionType,FraudLabel
+120,09:15,Grocery,Chennai,24,POS,0
+5400,02:10,Electronics,New York,2,Online,1
+75,13:45,Food,Madurai,18,POS,0
+900,18:20,Clothing,Delhi,12,Online,0
+15000,03:30,Jewelry,Mumbai,1,Online,1
+60,11:25,Cafe,Chennai,36,POS,0
+3000,22:40,Electronics,Bangalore,4,Online,1
+220,15:10,Grocery,Madurai,20,POS,0
+4700,01:05,Travel,London,3,Online,1
+130,10:30,Food,Chennai,14,POS,0
+8000,02:50,Electronics,Dubai,2,Online,1
+95,12:15,Cafe,Madurai,28,POS,0
+600,17:40,Clothing,Delhi,16,Online,0
+11000,04:20,Jewelry,New York,1,Online,1
+180,14:10,Grocery,Bangalore,22,POS,0
+2500,21:30,Electronics,Mumbai,6,Online,0
+90,08:55,Food,Madurai,30,POS,0
+7000,02:25,Travel,Singapore,2,Online,1
+140,13:05,Grocery,Chennai,26,POS,0
+5200,03:10,Electronics,London,3,Online,1
+210,16:45,Clothing,Delhi,18,POS,0
+75,09:35,Cafe,Madurai,32,POS,0
+9500,01:50,Jewelry,Dubai,1,Online,1
+400,19:10,Grocery,Bangalore,12,POS,0
+150,11:20,Food,Chennai,20,POS,0
+6200,02:15,Electronics,New York,3,Online,1
+320,17:50,Clothing,Mumbai,15,POS,0
+80,10:40,Cafe,Madurai,29,POS,0
+7200,03:05,Travel,Singapore,2,Online,1
+260,14:30,Grocery,Chennai,21,POS,0
+4100,22:20,Electronics,London,4,Online,1
+135,12:00,Food,Madurai,27,POS,0
+500,18:10,Clothing,Delhi,13,Online,0
+10000,04:40,Jewelry,Dubai,1,Online,1
+170,15:35,Grocery,Bangalore,23,POS,0
+2800,20:25,Electronics,Mumbai,7,Online,0
+65,09:10,Cafe,Chennai,31,POS,0
+8300,02:45,Travel,New York,2,Online,1
+210,13:55,Grocery,Madurai,19,POS,0
+4900,01:35,Electronics,London,3,Online,1
+140,11:45,Food,Chennai,25,POS,0
+360,16:15,Clothing,Delhi,17,POS,0
+9200,03:55,Jewelry,Dubai,1,Online,1
+190,14:50,Grocery,Bangalore,22,POS,0
+2700,21:10,Electronics,Mumbai,6,Online,0
+85,10:05,Cafe,Madurai,28,POS,0
+7600,02:35,Travel,Singapore,2,Online,1
+230,15:20,Grocery,Chennai,24,POS,0
+4500,23:15,Electronics,London,4,Online,1
+160,12:35,Food,Madurai,26,POS,0
