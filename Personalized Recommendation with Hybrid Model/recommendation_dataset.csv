@@ -1,0 +1,101 @@
+user_id,item_id,rating,category,description
+U9,I9,4,Home,Best in class
+U4,I18,3,Home,Affordable and durable
+U4,I30,2,Books,Premium design
+U18,I23,1,Books,Premium design
+U16,I17,3,Sports,High quality product
+U3,I28,3,Books,Affordable and durable
+U7,I11,5,Clothing,Best in class
+U15,I9,1,Electronics,Customer favorite
+U15,I19,5,Clothing,High quality product
+U17,I10,4,Books,Best in class
+U17,I26,3,Electronics,High quality product
+U2,I27,3,Books,High quality product
+U9,I26,4,Clothing,Customer favorite
+U15,I8,5,Books,High quality product
+U6,I25,3,Sports,High quality product
+U1,I22,1,Clothing,Premium design
+U5,I24,2,Books,Customer favorite
+U19,I6,3,Sports,Best in class
+U5,I8,4,Books,Affordable and durable
+U14,I24,2,Clothing,Affordable and durable
+U18,I21,3,Home,High quality product
+U14,I10,5,Home,Premium design
+U8,I3,1,Clothing,Customer favorite
+U2,I6,1,Sports,Premium design
+U7,I19,1,Home,Customer favorite
+U13,I17,3,Books,Best in class
+U14,I18,1,Home,Customer favorite
+U17,I29,3,Electronics,Customer favorite
+U17,I4,5,Books,Premium design
+U19,I24,4,Books,Affordable and durable
+U8,I5,3,Clothing,Premium design
+U7,I20,3,Sports,Affordable and durable
+U14,I6,2,Sports,High quality product
+U19,I18,5,Sports,Affordable and durable
+U19,I25,4,Electronics,Premium design
+U11,I7,5,Home,High quality product
+U18,I15,4,Home,Affordable and durable
+U9,I10,3,Clothing,Premium design
+U3,I15,1,Clothing,Best in class
+U16,I23,1,Home,High quality product
+U9,I7,4,Home,Affordable and durable
+U16,I12,3,Books,Affordable and durable
+U1,I22,2,Sports,Affordable and durable
+U17,I13,2,Sports,High quality product
+U16,I30,1,Electronics,Premium design
+U16,I27,4,Books,Premium design
+U20,I21,5,Clothing,Affordable and durable
+U14,I8,2,Books,Customer favorite
+U8,I20,5,Home,High quality product
+U18,I17,3,Sports,High quality product
+U17,I6,1,Sports,Customer favorite
+U9,I8,2,Home,Customer favorite
+U7,I10,3,Clothing,Customer favorite
+U17,I17,5,Books,High quality product
+U14,I12,2,Books,High quality product
+U1,I16,1,Home,Affordable and durable
+U5,I28,1,Sports,Best in class
+U14,I29,5,Books,Premium design
+U1,I13,5,Electronics,Best in class
+U20,I23,4,Books,Customer favorite
+U3,I21,4,Clothing,Customer favorite
+U3,I3,3,Sports,Customer favorite
+U11,I5,5,Sports,Affordable and durable
+U14,I29,1,Books,Customer favorite
+U8,I19,1,Home,Best in class
+U12,I30,4,Electronics,Customer favorite
+U19,I25,4,Books,Premium design
+U5,I2,5,Electronics,Premium design
+U20,I28,4,Home,Affordable and durable
+U16,I25,2,Home,Premium design
+U15,I4,4,Clothing,Customer favorite
+U6,I7,2,Books,Premium design
+U6,I16,2,Clothing,Customer favorite
+U5,I4,5,Clothing,Best in class
+U16,I12,3,Electronics,Best in class
+U8,I8,4,Clothing,High quality product
+U15,I5,4,Books,Premium design
+U15,I16,4,Electronics,Customer favorite
+U19,I1,2,Books,Affordable and durable
+U5,I20,3,Books,Premium design
+U19,I7,4,Electronics,Customer favorite
+U14,I5,5,Sports,Best in class
+U2,I28,2,Home,Best in class
+U19,I12,4,Books,Premium design
+U4,I14,2,Sports,Best in class
+U11,I15,4,Clothing,High quality product
+U12,I30,2,Electronics,Customer favorite
+U8,I28,1,Home,Best in class
+U17,I13,1,Sports,High quality product
+U10,I26,3,Sports,Customer favorite
+U19,I23,2,Electronics,Best in class
+U4,I13,4,Clothing,Best in class
+U16,I16,4,Books,Customer favorite
+U12,I11,1,Clothing,Customer favorite
+U20,I6,1,Books,Best in class
+U18,I28,2,Electronics,Best in class
+U7,I2,1,Clothing,Best in class
+U17,I29,1,Home,Affordable and durable
+U15,I27,5,Clothing,Customer favorite
+U15,I9,3,Clothing,Premium design
