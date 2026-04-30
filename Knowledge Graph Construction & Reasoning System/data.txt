@@ -1,0 +1,30 @@
+Alice works at Google. She lives in California. Alice knows Bob.
+Bob works at Microsoft and lives in Seattle. Bob knows Charlie.
+Charlie works at Amazon. He lives in New York. Charlie knows David.
+David works at Facebook. He lives in Texas. David knows Emma.
+Emma works at Apple. She lives in California. Emma knows Frank.
+Frank works at Netflix. He lives in Los Angeles. Frank knows Grace.
+Grace works at Tesla. She lives in Austin. Grace knows Henry.
+Henry works at IBM. He lives in Chicago. Henry knows Irene.
+Irene works at Intel. She lives in San Francisco. Irene knows Jack.
+Jack works at Oracle. He lives in Boston. Jack knows Alice.
+
+Kevin works at Google. He lives in California. Kevin knows Laura.
+Laura works at Microsoft. She lives in Seattle. Laura knows Mike.
+Mike works at Amazon. He lives in New York. Mike knows Nina.
+Nina works at Facebook. She lives in Texas. Nina knows Oscar.
+Oscar works at Apple. He lives in California. Oscar knows Paul.
+Paul works at Netflix. He lives in Los Angeles. Paul knows Queenie.
+Queenie works at Tesla. She lives in Austin. Queenie knows Ryan.
+Ryan works at IBM. He lives in Chicago. Ryan knows Sophia.
+Sophia works at Intel. She lives in San Francisco. Sophia knows Tom.
+Tom works at Oracle. He lives in Boston. Tom knows Kevin.
+
+Google is located in USA. Microsoft is located in USA. Amazon is located in USA.
+Facebook is located in USA. Apple is located in USA. Netflix is located in USA.
+Tesla is located in USA. IBM is located in USA. Intel is located in USA.
+Oracle is located in USA.
+
+California is located in USA. Seattle is located in USA. New York is located in USA.
+Texas is located in USA. Los Angeles is located in USA. Austin is located in USA.
+Chicago is located in USA. San Francisco is located in USA. Boston is located in USA.
