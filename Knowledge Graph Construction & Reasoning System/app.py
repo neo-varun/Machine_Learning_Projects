@@ -7,7 +7,8 @@ nlp = spacy.load("en_core_web_sm")
 
 st.set_page_config(page_title="Knowledge Graph System", layout="wide")
 
-st.markdown("""
+st.markdown(
+    """
 <style>
 .main {
     padding: 2rem;
@@ -27,7 +28,9 @@ h1, h2, h3 {
     border-radius: 8px;
 }
 </style>
-""", unsafe_allow_html=True)
+""",
+    unsafe_allow_html=True,
+)
 
 st.title("Knowledge Graph Construction and Reasoning System")
 
@@ -47,6 +50,7 @@ with col1:
 doc = nlp(text)
 
 entities = [(ent.text, ent.label_) for ent in doc.ents]
+
 
 def extract_relations(doc):
     relations = []
@@ -68,6 +72,7 @@ def extract_relations(doc):
 
     return relations
 
+
 relations = extract_relations(doc)
 
 G = nx.Graph()
@@ -83,21 +88,11 @@ with col2:
 
         fig, ax = plt.subplots(figsize=(4, 3))
 
-        nx.draw(
-            G, pos,
-            with_labels=True,
-            node_size=100,
-            font_size=2,
-            width=0.4,
-            ax=ax
-        )
+        nx.draw(G, pos, with_labels=True, node_size=100, font_size=2, width=0.4, ax=ax)
 
-        edge_labels = nx.get_edge_attributes(G, 'label')
+        edge_labels = nx.get_edge_attributes(G, "label")
         nx.draw_networkx_edge_labels(
-            G, pos,
-            edge_labels=edge_labels,
-            font_size=2,
-            ax=ax
+            G, pos, edge_labels=edge_labels, font_size=2, ax=ax
         )
 
         ax.set_axis_off()
@@ -120,7 +115,7 @@ with c1:
 
                 explanation = []
                 for i in range(len(path) - 1):
-                    rel = G[path[i]][path[i+1]]['label']
+                    rel = G[path[i]][path[i + 1]]["label"]
                     explanation.append(f"{path[i]} --({rel})--> {path[i+1]}")
 
                 st.text("\n".join(explanation))
@@ -156,8 +151,8 @@ c3, c4 = st.columns(2)
 
 with c3:
     st.write("Entities")
-    st.dataframe(entities, width='stretch')
+    st.dataframe(entities, width="stretch")
 
 with c4:
     st.write("Relationships")
-    st.dataframe(relations, width='stretch')
+    st.dataframe(relations, width="stretch")
